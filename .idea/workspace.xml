@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b67fcead-42a0-4727-88ed-d4d9b577b73d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapThem/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapThem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapThem/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapThem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapThem/BaiTapThem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapThem/src/controller/ManageRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapThem/src/controller/ManageUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapThem/src/model/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapThem/src/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyMD2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyMD2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyMD2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyMD2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyMD2/CaseStudyMD2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyMD2/src/file/FileAccountCSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyMD2/src/file/FileComputerCSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyMD2/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyMD2/src/manage/GeneralManage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyMD2/src/manage/ManageAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyMD2/src/manage/ManageComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyMD2/src/manage/ManageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyMD2/src/model/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyMD2/src/model/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyMD2/src/model/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/.idea/CodeGym.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Bai-Tap-OOP/.idea/Bai-Tap-OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Bai-Tap-OOP/Hinh-chu-nhat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Bai-tap-bang-cuu-chuong/.idea/Bai-tap-bang-cuu-chuong.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Bai-tap-bang-cuu-chuong/bangcuuchuong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Bai-tap-mang/.idea/Bai-tap-mang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Bai-tap-mang/Chuyen-doi-feet-meters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Bai-tap-mang/Ham-so-nguyen-to.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Ca-ro-2-nguoi/.idea/Ca-ro-2-nguoi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Ca-ro-2-nguoi/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/CaseStudy1/.idea/CaseStudy1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/CaseStudy1/bua.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/CaseStudy1/dirt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/CaseStudy1/game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/CaseStudy1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/CaseStudy1/mole.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/CaseStudy1/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Chuoi-doi-xung/.idea/Chuoi-doi-xung.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Chuoi-doi-xung/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Chuyen-doi-tien-te/.idea/Chuyen-doi-tien-te.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Chuyen-doi-tien-te/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Chuyen-doi-tien-te/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Co-ca-ro/.idea/Co-ca-ro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Co-ca-ro/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Dao-nguoc-mang/.idea/Dao-nguoc-mang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Dao-nguoc-mang/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Demo/.idea/Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Demo/Demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/DoyouLoveMe/.idea/DoyouLoveMe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/DoyouLoveMe/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Game-don-gian/.idea/Game-don-gian.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Game-don-gian/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Game-don-gian/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Game-don-gian/pikachu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Good-Fast-Cheap/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Good-Fast-Cheap/.idea/Good-fast-cheap (2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Good-Fast-Cheap/.idea/Good-fast-cheap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Good-Fast-Cheap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Good-Fast-Cheap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Good-Fast-Cheap/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Kiem-tra-nam-nhuan/.idea/Kiem-tra-nam-nhuan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Kiem-tra-nam-nhuan/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Kiem-tra-nam-nhuan/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Kiem-tra/.idea/Kiem-tra.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Kiem-tra/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Kiem-tra/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Kiem-tra/Bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Kiem-tra/Bai4-a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Kiem-tra/Bai4-b.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Kiem-tra/Bai4-c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Kiem-tra/Bai4-d.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Kiem-tra/Bai4-e.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Kiemtra2/.idea/Kiemtra2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Kiemtra2/a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Kiemtra2/b.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Kiemtra2/c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Kiemtra2/d.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Kiemtra2/e.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Ktra-Module1/.idea/Ktra-Module1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Ktra-Module1/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Ktra-Module1/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Ktra-Module1/Bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Ktra-Module1/Bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-cau-truc-dieu-kien-1/.idea/Luyen-tap-cau-truc-dieu-kien-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-cau-truc-dieu-kien-1/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-cau-truc-dieu-kien-1/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-cau-truc-dieu-kien-1/Bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-cau-truc-dieu-kien-1/Bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-cau-truc-dieu-kien-1/Bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-cau-truc-dieu-kien-1/Bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-cau-truc-dieu-kien-1/Bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-cau-truc-dieu-kien-2/.idea/Luyen-tap-cau-truc-dieu-kien-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-cau-truc-dieu-kien-2/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-cau-truc-dieu-kien-2/Bai10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-cau-truc-dieu-kien-2/Bai11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-cau-truc-dieu-kien-2/Bai12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-cau-truc-dieu-kien-2/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-cau-truc-dieu-kien-2/Bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-cau-truc-dieu-kien-2/Bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-cau-truc-dieu-kien-2/Bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-cau-truc-dieu-kien-2/Bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-cau-truc-dieu-kien-2/Bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-cau-truc-dieu-kien-2/Bai8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-cau-truc-dieu-kien-2/Bai9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-ham-1/.idea/Luyen-tap-ham-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-ham-1/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-ham-1/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-ham-1/Bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-ham-1/Bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-ham-1/Bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-ham-2/.idea/Luyen-tap-ham-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-ham-2/BAi3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-ham-2/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-ham-2/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-ham-2/Bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-ham-2/Bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-ham-2/Bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-ham-2/Bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-ham-2/Bai8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-ham-2/Bai9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-if-else-if/.idea/Luyen-tap-if-else-if.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-if-else-if/Login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-if-else/.idea/Luyen-tap-if-else.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-if-else/ex01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-mang-1/.idea/Luyen-tap-mang-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-mang-1/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-mang-1/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-mang-1/Bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-mang-1/Bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-mang-1/Bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-mang-1/Bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-mang-1/Bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-mang-1/Bai8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-mang-1/Bai9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-mang-2/.idea/Luyen-tap-mang-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-mang-2/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-mang-2/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-mang-2/Bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-mang-2/Bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-mang-2/Bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-mang-2/Bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-switch-case/.idea/Luyen-tap-switch-case.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-switch-case/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-switch-case/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-switch-case/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-toan-tu-3-ngoi/.idea/Luyen-tap-toan-tu-3-ngoi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-toan-tu-3-ngoi/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-toan-tu-3-ngoi/employee.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-vong-lap-1/.idea/Luyen-tap-vong-lap-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-vong-lap-1/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-vong-lap-1/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-vong-lap-1/Bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-vong-lap-1/Bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-vong-lap-1/Bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-vong-lap-1/Bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-vong-lap-1/Bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-vong-lap-1/Bai8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-vong-lap-2/.idea/Luyen-tap-vong-lap-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-vong-lap-2/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-vong-lap-2/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-vong-lap-2/Bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-vong-lap-2/Bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-vong-lap-2/Bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Luyen-tap-vong-lap-2/Bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/May-tinh-don-gian/.idea/May-tinh-don-gian.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/May-tinh-don-gian/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Meo-bat-chuot/.idea/Meo-bat-chuot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Meo-bat-chuot/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Su-dung-ham-co-san/.idea/Su-dung-ham-co-san.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Su-dung-ham-co-san/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Su-dung-ham-co-san/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Su-dung-ham-co-san/Bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-JS-1/.idea/Thuc-hanh-JS-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-JS-1/thuc-hanh-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-JS-2/.idea/Thuc-hanh-JS-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-JS-2/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-JS-2/thuc-hanh-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-OOP/.idea/Thuc-hanh-OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-OOP/Hinh-tron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-OOP/funny Circles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-do-while/.idea/Thuc-hanh-do-while.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-do-while/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-dung-toan-tu/.idea/Thuc-hanh-dung-toan-tu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-dung-toan-tu/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-dung-toan-tu/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-for/.idea/Thuc-hanh-for.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-for/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-for/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-khai-bao-bien/.idea/Thuc-hanh-khai-bao-bien.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-khai-bao-bien/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-mang-1/.idea/Thuc-hanh-mang-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-mang-1/Chuyen-doi-nhiet-do.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-mang-1/Tao-va-goi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-mang-1/Tim-min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-tao-thao-tac-mang/.idea/Thuc-hanh-tao-thao-tac-mang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-tao-thao-tac-mang/arrayElement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-vong-lap-long-nhau/.idea/Thuc-hanh-vong-lap-long-nhau.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-vong-lap-long-nhau/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-while/.idea/Thuc-hanh-while.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-while/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Thuc-hanh-while/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Tim-gia-tri/.idea/Tim-gia-tri.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Tim-gia-tri/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Tim-gtri-max-trong mang/.idea/Tim-gtri-max-trong mang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Tim-gtri-max-trong mang/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Tinh-ngay/.idea/Tinh-ngay.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Tinh-ngay/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Tu-dien/.idea/Tu-dien.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Tu-dien/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Ung-dung-quan-ly/.idea/Ung-dung-quan-ly.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/Ung-dung-quan-ly/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/bai-tap-bien-toan-tu-2/.idea/bai-tap-bien-toan-tu-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/bai-tap-bien-toan-tu-2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/bai-tap-bien-toan-tu-4/.idea/bai-tap-bien-toan-tu-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/bai-tap-bien-toan-tu-4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/bai-tap-bien-toan-tu/.idea/bai-tap-bien-toan-tu-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/bai-tap-bien-toan-tu/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/bai-tap-toan-tu-3/.idea/bai-tap-toan-tu-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/bai-tap-toan-tu-3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/may-tinh/.idea/may-tinh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/may-tinh/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/may-tinh/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/songuyento/.idea/songuyento.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/songuyento/songuyento.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/su-kien-ban-phim/.idea/su-kien-ban-phim.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/su-kien-ban-phim/download.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/su-kien-ban-phim/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/su-kien-chuot/.idea/su-kien-chuot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/su-kien-chuot/download.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/su-kien-chuot/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/tinh-can-nang/.idea/tinh-can-nang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/tinh-can-nang/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/wadwa/.idea/Kiem-tra.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/wadwa/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/wadwa/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/wadwa/Bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGym/wadwa/Bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGymModule2/Baitap/Baitap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGymModule2/CodeGymModule2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGymModule2/Kiemtra/Kiemtra.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGymModule2/Kiemtra/src/QuanLyDanhBa/QuanLyDanhBa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGymModule2/LuyenTap/LuyenTap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGymModule2/Thuchanh/Thuchanh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGymModule2/javaCollectionsFramework/javaCollectionsFramework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/libraries/Maven__org_openjfx_javafx_base_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/libraries/Maven__org_openjfx_javafx_base_win_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/libraries/Maven__org_openjfx_javafx_controls_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/libraries/Maven__org_openjfx_javafx_controls_win_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/libraries/Maven__org_openjfx_javafx_fxml_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/libraries/Maven__org_openjfx_javafx_graphics_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/Login.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/src/main/java/com/example/login/LoginApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/src/main/java/com/example/login/database/account.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/src/main/java/com/example/login/file/FileAccountCSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/src/main/java/com/example/login/manage/ManageAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/src/main/java/com/example/login/model/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/src/main/java/com/example/login/view/LoginView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/src/main/resources/com/example/login/login.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/Manager Neteam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/Resource/rs2xml.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/Resource/sqlite-jdbc-3.7.15-M1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/Resource/sqlite-jdbc-3.7.15-SNAPSHOT-2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/Resource/sqlite-jdbc-3.7.15-SNAPSHOT-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/Resource/sqlite-jdbc-3.7.15-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/Resource/sqlite-jdbc-3.7.2-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/Resource/sqlite-jdbc4-3.8.2-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/Login$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/Login$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/Login$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/Login.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/Login.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$22.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$23.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$24.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$25.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$26.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$27.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$28.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$29.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$30.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$31.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$32.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$33.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$34.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$35.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$36.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo$jScrollPane1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/ManagerInfo.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/doanhthuSQL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/khachSQLiteExcute.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/khachclass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/sqliteConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/test$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/thanhvien.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/thanhvienSqlite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/thanhvienchitiet$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/thanhvienchitiet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/giaodien/thanhvienchitiet.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/images/background-learner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/images/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/images/clear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/images/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/images/iconcoputer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/images/iconthongke.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/images/load.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/images/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/images/pass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/images/save.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/images/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/images/update.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/build/classes/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/src/giaodien/Login.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/src/giaodien/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/src/giaodien/ManagerInfo.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/src/giaodien/ManagerInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/src/giaodien/doanhthuSQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/src/giaodien/khachSQLiteExcute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/src/giaodien/khachclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/src/giaodien/sqliteConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/src/giaodien/thanhvien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/src/giaodien/thanhvienSqlite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/src/giaodien/thanhvienchitiet.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/src/giaodien/thanhvienchitiet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/src/images/background-learner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/src/images/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/src/images/clear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/src/images/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/src/images/iconcoputer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/src/images/iconthongke.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/src/images/load.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/src/images/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/src/images/pass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/src/images/save.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/src/images/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/src/images/update.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/Manager Netteam o/Manager Neteam/src/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNet2/QuanLyNet2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNhanVien/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNhanVien/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNhanVien/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNhanVien/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNhanVien/QuanLyNhanVien.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNhanVien/src/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyNhanVien/src/StaffManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyQuanNet/Source/.idea/Source.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyQuanNet/Source/CSMClient/CSMClient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyQuanNet/Source/CSMServer/CSMServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/Test2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/out/production/Test2/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/out/production/Test2/control/PhoneBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/out/production/Test2/data/contacts.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/out/production/Test2/date/DateFormatter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/out/production/Test2/file_handle/FileUserCSV.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/out/production/Test2/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/out/production/Test2/validate/DateValidate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/out/production/Test2/validate/EmailValidate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/out/production/Test2/validate/PhoneNumberValidate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/out/production/Test2/view/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/out/production/Test2/view/Menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/src/control/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/src/data/contacts.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/src/date/DateFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/src/file_handle/FileUserCSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/src/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/src/validate/DateValidate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/src/validate/EmailValidate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/src/validate/PhoneNumberValidate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/src/view/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/src/view/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_openjfx_javafx_base_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_openjfx_javafx_base_win_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_openjfx_javafx_controls_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_openjfx_javafx_controls_win_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_openjfx_javafx_fxml_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_openjfx_javafx_graphics_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/RegistrationFormApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/com/example/demo/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/classes/com/example/demo/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/classes/com/example/demo/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/classes/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ServerTimeServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thuc-hanh-HTML/Thuc-hanh-HTML.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29WCjFWI8XmZwCX171UpIlWunHK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.63" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.63" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : org.example : server_time-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="87c71829-60a5-425f-873a-3721a60f1a3e" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49326" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : org.example : server_time-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b67fcead-42a0-4727-88ed-d4d9b577b73d" name="Changes" comment="" />
+      <created>1653219592235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653219592235</updated>
+      <workItem from="1653219592238" duration="553000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
